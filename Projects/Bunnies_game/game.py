@@ -1,3 +1,14 @@
+#Rashid's working copy of Game Badgers and Bunnies
+
+#THIS IS BASED ON TUTORIAL FROM raywenderlich.com, credit to them
+
+#***IMPORTANT: the images from the game are programmed in based on a local, not
+#global drive. Please download the resources at
+#http://www.raywenderlich.com/downloads/BB_Resources.zip and keep the folder in
+#the same directory as this script for game.py to work properly***
+
+#Must also have pygame library for script to work*
+
 # 1 - Import library
 import pygame
 import math
