@@ -1,7 +1,10 @@
 #Rashid Barket's Webscrape v1
 #Grabs data from Billboard hot 100 and inputs data into an csv file (open with excel)
 #Beautiful soup is the library used to webscrape
+
 #Skills learned from Data Science Dojo (https://www.youtube.com/channel/UCzL_0nIe8B4-7ShhVPfJkgw)
+
+#***Must Install BeatifulSoup 4 library to work***
 
 from bs4 import BeautifulSoup as soup
 import urllib.request
